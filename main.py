@@ -5,3 +5,6 @@
 # Python code to demonstrate basic Git commands and usage in VS Code
 print("Hello, World!")
 # Second commit
+
+# New code added to demonstrate branching
+print("Branching and Merging in Git")
